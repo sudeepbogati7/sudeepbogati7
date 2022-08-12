@@ -22,7 +22,7 @@
 <a href="https://twitter.com/sudeepbogati4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudeepbogati4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sudeep bogati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudeep bogati" height="30" width="40" /></a>
 <a href="https://fb.com/sudeep bogati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudeep bogati" height="30" width="40" /></a>
-<a href="https://instagram.com/sudeep_xettry07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudeepb_xettry07" height="30" width="40" /></a>
+<a href="https://instagram.com/sudeep_xettry7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudeepb_xettry07" height="30" width="40" /></a>
 <a href="https://discord.gg/#4994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4994" height="30" width="40" /></a>
 </p>
 
