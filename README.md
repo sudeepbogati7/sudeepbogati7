@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeepbogati7&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepbogati7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeepbogati7&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepbogati7" /></p>
 
 ## About Me 
 
