@@ -17,8 +17,10 @@
 ## Let's Connect
 🌐 I'm open to collaborating on projects or discussing tech topics. Feel free to reach out! I enjoy chatting with fellow developers and exploring new ideas together.
 
+[![Discord](https://img.shields.io/badge/-discord-FE7A16?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/877917446558859295)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudeep-bogati/)
 [![Kaggle](https://img.shields.io/badge/-kaggle-FE7A16?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sudeepchhetri)
+
 
 ## Skills
 
