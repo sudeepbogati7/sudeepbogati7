@@ -12,7 +12,7 @@
 - **Web**: NODE.js , Express.js , RESTFul APIs
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Machine Learning / AI :** Numpy , Pandas, Matplotlib, Seaborn , Scikit-learn, ML, Deep Learning , Neural Networks CNN, RNN
-- **Tools & Technologies**: Git, Docker
+- **Tools & Technologies**: Git, Docker, AWS Cloud Computing
 
 ## What I Do
 🚀 My expertise lies in building robust backend systems that power applications with reliability and speed. From designing database schemas to optimizing API endpoints, I enjoy every aspect of the backend development lifecycle.
