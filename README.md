@@ -9,7 +9,8 @@
 
 - **Programming Languages**: Python, JavaScript, TypeScript, C , C++
 - **Linux OS**: Shell Scripting, Commands , configurations
-- **Web**: NODE.js , Express.js , RESTFul APIs
+- **Backend**: NODE.js , Express.js ,Django
+- **Frontend** : React , Next.js , TailwindCSS
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Machine Learning / AI :** Numpy , Pandas, Matplotlib, Seaborn , Scikit-learn, ML, Deep Learning , Neural Networks CNN, RNN
 - **Tools & Technologies**: Git, Docker, AWS Cloud Computing
