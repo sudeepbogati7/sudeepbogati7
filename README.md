@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeepbogati7&label=Profile%20views&color=0e75b6&style=flat" alt="sudeepbogati7" /></p>
 
-# Sudeep Bogati
-
 ### About Me 
 
 👋 Hello there! I'm Sudeep Bogati, a passionate **Software Engineer** originating from the beautiful landscapes of **Nepal**. With a fervent passion for building robust digital infrastructures, I specialize in developing backend system of applications. I thrive on unraveling intricate technical puzzles and architecting solutions that propel applications to new heights. Let's collaborate and create software that makes a difference! 
