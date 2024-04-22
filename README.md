@@ -19,7 +19,7 @@
 🚀 My expertise lies in building robust backend systems that power applications with reliability and speed. From designing database schemas to optimizing API endpoints, I enjoy every aspect of the backend development lifecycle.
 
 ## Let's Connect
-🌐 I'm open to collaborating on projects or discussing tech topics. Feel free to reach out! I enjoy chatting with fellow developers and exploring new ideas together.
+I'm open to collaborating on projects or discussing tech topics. Feel free to reach out! I enjoy chatting with fellow developers and exploring new ideas together.
 
 [![Discord](https://img.shields.io/badge/-discord-7289d9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/877917446558859295)
 [![Stackoverflow](https://img.shields.io/badge/-stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24161634/sudeepbogati)
