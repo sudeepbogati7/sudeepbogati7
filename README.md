@@ -17,7 +17,7 @@
 - **Tools & Technologies**: Git, Docker, AWS Cloud Computing
 
 ## What I Do
-🚀 My expertise lies in building robust backend systems that power applications with reliability and speed. From designing database schemas to optimizing API endpoints, I enjoy every aspect of the backend development lifecycle.
+🚀 My expertise lies in building robust backend systems that power applications with reliability and speed. From designing database schemas to optimizing API endpoints, I enjoy every aspect of the full stack development lifecycle.
 
 ## Let's Connect
 I'm open to collaborating on projects or discussing tech topics. Feel free to reach out! I enjoy chatting with fellow developers and exploring new ideas together.
