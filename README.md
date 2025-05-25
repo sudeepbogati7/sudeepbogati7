@@ -21,7 +21,8 @@ objectives and security standards.
 - **Tools & Technologies**: Git, Docker, AWS Cloud Computing, RabbitMQ, CI/CD Pipelines
 
 ## What I Do
-🚀 My expertise lies in building robust backend systems that power applications with reliability and speed. From designing database schemas to optimizing API endpoints, I enjoy every aspect of the full stack development lifecycle.
+As a Full Stack Software Engineer, I specialize in building end-to-end web applications—from crafting intuitive front-end interfaces to developing scalable and secure backend systems. I’m passionate about designing efficient database schemas, optimizing APIs for performance, and delivering seamless user experiences through clean, maintainable code across the entire stack.
+
 
 ## Let's Connect
 I'm open to collaborating on projects or discussing tech topics. Feel free to reach out! I enjoy chatting with fellow developers and exploring new ideas together.
