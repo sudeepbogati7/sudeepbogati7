@@ -14,11 +14,11 @@ objectives and security standards.
 
 - **Programming Languages**: Python, JavaScript, TypeScript, C , C++, C#, Java
 - **Linux OS**: Shell Scripting, Commands , configurations
-- **Backend**: NODE.js , Express.js ,Django, FastAPI, Flask
+- **Backend**: Bun, NODE.js , Express.js ,Django, FastAPI, Flask
 - **Frontend** : React , Next.js , TailwindCSS
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Machine Learning / AI :** Numpy , Pandas, Matplotlib, Seaborn , Scikit-learn, ML, Deep Learning , Neural Networks CNN, RNN
-- **Tools & Technologies**: Git, Docker, AWS Cloud Computing
+- **Databases**: PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis
+- **Machine Learning / AI :** Numpy , Pandas, Matplotlib, Seaborn , Scikit-learn, ML, Deep Learning , Neural Networks CNN, RNN, Transformer, Langchain, RAG
+- **Tools & Technologies**: Git, Docker, AWS Cloud Computing, RabbitMQ, CI/CD Pipelines
 
 ## What I Do
 🚀 My expertise lies in building robust backend systems that power applications with reliability and speed. From designing database schemas to optimizing API endpoints, I enjoy every aspect of the full stack development lifecycle.
