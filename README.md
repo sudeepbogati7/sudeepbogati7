@@ -2,15 +2,19 @@
 
 ### About Me 
 
-👋 Hello ! I'm Sudeep Bogati, a passionate **Full Stack Software Engineer** originating from the beautiful landscapes of **Nepal** 🇳🇵. With a fervent passion for building robust digital infrastructures, I specialize in developing frontend as well as backend system of applications. I thrive on unraveling intricate technical puzzles and architecting solutions that propel applications to new heights. Let's collaborate and create software that makes a difference! 
-
+Hi, This is Sudeep Bogati, an experienced Software Engineer with a strong background in designing and developing secure, scalable, and
+high performance web applications. My expertise includes building cybersecurity-focused SaaS products, where I
+apply industry best practices, including OWASP security principles, to ensure the integrity and safety of
+applications. I possess strong skills in full-stack development, problem-solving, and creating clean, maintainable
+code. With a focus on collaboration, I am committed to delivering software solutions that meet both business
+objectives and security standards.
 
 ### Tech Stack
 💻 Here's a glimpse of my tech stack:
 
-- **Programming Languages**: Python, JavaScript, TypeScript, C , C++
+- **Programming Languages**: Python, JavaScript, TypeScript, C , C++, C#, Java
 - **Linux OS**: Shell Scripting, Commands , configurations
-- **Backend**: NODE.js , Express.js ,Django
+- **Backend**: NODE.js , Express.js ,Django, FastAPI, Flask
 - **Frontend** : React , Next.js , TailwindCSS
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Machine Learning / AI :** Numpy , Pandas, Matplotlib, Seaborn , Scikit-learn, ML, Deep Learning , Neural Networks CNN, RNN
